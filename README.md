@@ -8,4 +8,4 @@
 * [브랜치 전략](https://github.com/hanbin8269/project-rule-template/blob/master/branch-strategy.md)
 * [커밋 메세지 규칙](https://github.com/hanbin8269/project-rule-template/blob/master/commit-message-rule.md)
 * [환경 변수 명시 방식](https://github.com/hanbin8269/project-rule-template/blob/master/environment-variable-spec.md)
-* [Pull Request 규칙](https://github.com/hanbin8269/project-rule-template/blob/master/naming-rule.md)
+* [Pull Request 규칙](https://github.com/hanbin8269/project-rule-template/blob/master/pull-request-rule.md)
