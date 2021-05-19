@@ -25,3 +25,5 @@
 2. `feature`는 `develop`으로부터 생성된다.
 3. `release`는 `develop`으로부터 생성된다.
 4. `master`에서 버그가 검출되면 `hotfix`를 생성한다
+
+![git-flow-example](images/git-flow-example.png)
